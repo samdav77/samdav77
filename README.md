@@ -1,7 +1,5 @@
 # Hi there, I'm Samuel 👋
 
-🚀 **Electrical Engineer | Software Developer | Data Enthusiast**
-
 Welcome to my GitHub! I'm passionate about merging technology with real-world applications, especially in **traffic optimization, smart systems, marketplace platforms, and energy solutions**. With expertise in **Python, Django, Next.js, React Native, and FlutterFlow**, I build scalable solutions that drive impact.
 
 ## 🔥 What I Do
